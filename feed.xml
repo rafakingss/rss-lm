@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Observatorio de Hardware: Precios y Demanda de SSD y RAM</title>
+    <link>https://TU_USUARIO.github.io/rss-lm/</link>
+    <description>Análisis actualizado sobre la evolución de precios, oferta de memoria NAND/DRAM y demanda global de SSD y RAM en 2026.</description>
+    <language>es</language>
+    <lastBuildDate>Wed, 25 Nov 2026 19:00:00 GMT</lastBuildDate>
+    <atom:link href="https://TU_USUARIO.github.io/rss-lm/feed.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+      <title>La demanda de centros de datos de IA tensiona el precio de la memoria DDR5 y los SSD NVMe</title>
+      <link>https://TU_USUARIO.github.io/rss-lm/#noticia1</link>
+      <description>El auge de los servidores de inteligencia artificial ha absorbido gran parte de la producción mundial de obleas DRAM y NAND Flash, provocando un repunte sostenido del 15% en los módulos DDR5 de consumo durante el último trimestre de 2026.</description>
+      <pubDate>Wed, 25 Nov 2026 10:00:00 GMT</pubDate>
+      <guid>https://TU_USUARIO.github.io/rss-lm/#noticia1</guid>
+    </item>
+
+    <item>
+      <title>SSD PCIe 5.0 vs PCIe 4.0: Evolución del coste por terabyte en el mercado doméstico</title>
+      <link>https://TU_USUARIO.github.io/rss-lm/#noticia2</link>
+      <description>Mientras los SSD PCIe 5.0 comienzan a moderar su precio tras la llegada de nuevas controladoras más eficientes, las unidades PCIe 4.0 de 2 TB se consolidan como la opción con mejor relación calidad-precio para el usuario medio.</description>
+      <pubDate>Mon, 23 Nov 2026 16:30:00 GMT</pubDate>
+      <guid>https://TU_USUARIO.github.io/rss-lm/#noticia2</guid>
+    </item>
+
+    <item>
+      <title>Previsiones de stock de memoria RAM para principios de 2027: ¿Conviene actualizar ahora?</title>
+      <link>https://TU_USUARIO.github.io/rss-lm/#noticia3</link>
+      <description>Los principales fabricantes de semiconductores anuncian ajustes en sus líneas de producción para priorizar memorias de alto ancho de banda (HBM), lo que podría reducir la disponibilidad de kits DDR4 y DDR5 convencionales.</description>
+      <pubDate>Fri, 20 Nov 2026 09:15:00 GMT</pubDate>
+      <guid>https://TU_USUARIO.github.io/rss-lm/#noticia3</guid>
+    </item>
+
+  </channel>
+</rss>
